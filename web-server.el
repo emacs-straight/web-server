@@ -1,4 +1,4 @@
-;;; web-server.el --- Emacs Web Server  -*- lexical-binding:t -*-
+;;; web-server.el --- Emacs Web Server -*- lexical-binding: t -*-
 
 ;; Copyright (C) 2013-2020 Free Software Foundation, Inc.
 
